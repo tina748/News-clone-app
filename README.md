@@ -22,4 +22,4 @@
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/NewsApp.git
+   git clone https://github.com/tina748/NewsApp.git
